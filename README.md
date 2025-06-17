@@ -7,7 +7,7 @@ I'm a passionate developer exploring the depths of **system programming**, **web
 I take **Leetcode** as a challenge and learning data structures through solving problems became my hobby. 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px ; height: 25px ; width: 25px">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px ; height: 75px ; width: 75px">
 <p align="center"><i><strong>Proud Fedora User</strong></i></p>
 
 
@@ -41,5 +41,5 @@ I take **Leetcode** as a challenge and learning data structures through solving 
 ---
 
 ## 📫 Social and Profiles
-<a href="mailto:mathewabhinav2005@gmail.com"><img src="gmail.png" height="25px" width="25px"></a>
+<a href="mailto:mathewabhinav2005@gmail.com"><img src="gmail.png" height="75px" width="75px"></a>
 
