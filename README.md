@@ -42,5 +42,5 @@
 
 ## 📫 Social and Profiles
 <a href="mailto:mathewabhinav2005@gmail.com"><img src="gmail.png" height="75px" width="75px"></a>
-<a href="https://leetcode.com/u/mat_hew_24/"><img src="leetcode.png" height="75px" width="75px"></a>
+<a href="https://leetcode.com/u/mat_hew_24/"><img src="leetcode.png" height="60px" width="75px" style="margin: 0px 10px"></a>
 
