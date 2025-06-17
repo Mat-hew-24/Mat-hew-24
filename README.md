@@ -2,7 +2,14 @@
 
 ### 💻 Developer | 🐧 Linux Enthusiast
 
-I'm a passionate developer exploring the depths of **system programming**, **web development**, and **scripting automation**. I enjoy building cool projects, solving real-world problems, and contributing to open source.
+I'm a passionate developer exploring the depths of **system programming**, **web development**, and **scripting automation**. I enjoy building cool projects, solving real-world problems, and contributing to open source. Want to expand my skills on **operating systems**.
+
+I take **Leetcode** as a challenge and learning data structures through solving problems became my hobby. 
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px ; height: 200px ; width: 200px">
+<p align="center"><i><strong>Proud Fedora User</strong></i></p>
+
+
 
 ---
 
@@ -12,7 +19,7 @@ I'm a passionate developer exploring the depths of **system programming**, **web
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="40" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bitbucket.png" width="40" alt="Bitbucket"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vim.png" width="40" alt="Vim"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="40" alt="Vim"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="40" alt="Bash"/>
 </p>
 <p align="center" style="margin:10px 50px">
@@ -32,8 +39,6 @@ I'm a passionate developer exploring the depths of **system programming**, **web
 
 ---
 
-## 📫 Contact Me
+## 📫 Social and Profiles
+<a href="mailto:mathewabhinav2005@gmail.com"><img src="gmail.png"></a>
 
-[![Email](https://img.shields.io/badge/-mathewabhinav2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mathewabhinav2005@gmail.com)
-
----
