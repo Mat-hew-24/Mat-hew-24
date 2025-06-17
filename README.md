@@ -8,14 +8,21 @@ I'm a passionate developer exploring the depths of system programming, web devel
 
 ## 🛠️ Tech Stack & Tools I use...
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png
 ---
 
 ## 📫 Contact Me
