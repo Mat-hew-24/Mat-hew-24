@@ -8,17 +8,21 @@ I'm a passionate developer exploring the depths of **system programming**, **web
 
 ## 🛠️ Tech Stack & Tools I Use
 
-<p align="left" style="margin:10px 50px">
+<p align="center" style="margin:10px 50px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="40" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bitbucket.png" width="40" alt="Bitbucket"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vim.png" width="40" alt="Vim"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="40" alt="Bash"/>
+</p>
+<p align="center" style="margin:10px 50px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="40" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="40" alt="CSS"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bootstrap.png" width="40" alt="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/angular.png" width="40" alt="Angular"/>
+</p>
+<p align="center" style="margin:10px 50px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="40" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="40" alt="C"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="40" alt="Python"/>
