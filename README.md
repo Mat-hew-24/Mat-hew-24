@@ -1,47 +1,17 @@
-# 👋 Hi, I'm Mathew
+ <div align="center">
+👋 Hey, I'm Mathew
+💻 Developer | 🐧 Linux Enthusiast | 🚀 Problem Solver
+</div>
+🌟 About Me
 
-## 💻 Developer | 🐧 Linux Enthusiast
+I'm a dedicated developer with a passion for system programming, web development, and automation scripting. I love tackling real-world challenges, building innovative projects, and making meaningful contributions to the open-source community. My curiosity drives me to constantly deepen my understanding of operating systems and low-level computing.
 
-### I'm a passionate developer exploring the depths of **system programming**, **web development**, and **scripting automation**. I enjoy building cool projects, solving real-world problems, and contributing to open source. Want to expand my skills on **operating systems**.
+Solving data structure problems on Leetcode has become my favorite way to learn and grow. Every challenge is an opportunity to sharpen my skills and think creatively.
+<div align="center" style="margin: 20px 0;"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px; height: 75px; width: 75px;" alt="Fedora Logo"/> <br> <i><strong>Proud Fedora User</strong></i> </div>
+🛠️ My Tech Toolbox
+<div align="center" style="margin: 20px 0;"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="40" alt="GitHub"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bitbucket.png" width="40" alt="Bitbucket"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="40" alt="Postman"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="40" alt="Bash"/> </div> <div align="center" style="margin: 20px 0;"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="40" alt="HTML"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="40" alt="CSS"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bootstrap.png" width="40" alt="Bootstrap"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="40" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/angular.png" width="40" alt="Angular"/> </div> <div align="center" style="margin: 20px 0;"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="40" alt="TypeScript"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="40" alt="C"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="40" alt="Python"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/go.png" width="40" alt="Go"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="40" alt="MySQL"/> </div>
+🌐 Connect With Me
+<div align="center" style="margin-top: 20px;"> <a href="mailto:mathewabhinav2005@gmail.com"> <img src="gmail.png" height="60px" width="60px" alt="Gmail"> </a> &nbsp; &nbsp; &nbsp; <a href="https://leetcode.com/u/mat_hew_24/"> <img src="leetcode.png" height="60px" width="60px" alt="Leetcode"> </a> </div> <div align="center">
 
-### I take **Leetcode** as a challenge and learning data structures through solving problems became my hobby. 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px ; height: 75px ; width: 75px">
-<p align="center"><i><strong>Proud Fedora User</strong></i></p>
-
-
-
----
-
-## 🛠️ Tech Stack & Tools I Use
-
-<p align="center" style="margin:10px 50px">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bitbucket.png" width="40" alt="Bitbucket"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="40" alt="Vim"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="40" alt="Bash"/>
-</p>
-<p align="center" style="margin:10px 50px">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bootstrap.png" width="40" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/angular.png" width="40" alt="Angular"/>
-</p>
-<p align="center" style="margin:10px 50px">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/go.png" width="40" alt="Go"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="40" alt="MySQL"/>
-</p>
-
----
-
-## 📫 Social and Profiles
-<a href="mailto:mathewabhinav2005@gmail.com"><img src="gmail.png" height="75px" width="75px"></a>
-&nbsp; &nbsp; &nbsp;
-<a href="https://leetcode.com/u/mat_hew_24/"><img src="leetcode.png" height="75px" width="75px" style="margin: 0px 100px"></a>
-
+✨ Always eager to learn, collaborate, and create something extraordinary. Let’s connect and build the future together! ✨
+</div> 
