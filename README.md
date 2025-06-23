@@ -1,14 +1,16 @@
+<div style="font-family:system-ui; font-size: 15px;">
+
 # 👋 Hi, I'm Mathew
 
 ## 💻 Developer | 🐧 Linux Enthusiast
 
-### I'm a passionate developer exploring the depths of **system programming**, **web development**, and **scripting automation**. I enjoy building cool projects, solving real-world problems, and contributing to open source. Want to expand my skills on **operating systems**.
+### I'm a passionate developer exploring the depths of ***system programming***, ***web development***, and ***scripting automation***. I enjoy building cool projects, solving real-world problems, and contributing to open source. Currently trying to expand my skills on **operating systems** and ***Backend Logic*** using ***Golang***.
 
-### I take **Leetcode** as a challenge and learning data structures through solving problems became my hobby. 
+### I take ***Leetcode*** as a challenge and learning data structures through solving problems became my hobby. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px ; height: 75px ; width: 75px">
-<p align="center"><i><strong>Proud Fedora User</strong></i></p>
+<p align="center" style="font-size:20px">Proud Fedora User</p>
 
 
 
@@ -66,3 +68,4 @@
 &nbsp; &nbsp;
 <a href="https://leetcode.com/u/mat_hew_24/"><img src="leetcode.png" height="75px" width="75px" style="margin: 0px 100px"></a>
 
+</div>
