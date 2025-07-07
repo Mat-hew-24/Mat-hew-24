@@ -4,7 +4,7 @@
 
 ### I'm a passionate developer exploring the depths of **system programming**, **web development**, and **scripting automation**. I enjoy building cool projects, solving real-world problems, and contributing to open source. Want to expand my skills on **operating systems**.
 
-### I take **Leetcode** as a challenge and learning data structures through solving problems became my hobby. 
+### I take **Leetcode** as a challenge and learning data structures through solving problems became my hobby.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px ; height: 75px ; width: 75px">
@@ -67,14 +67,6 @@
 
 ## 🧠 Currently Learning
 
-- ⚛️ React  
-- 🦫 Golang  
-- 🐚 Bash  
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mat_hew_24?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
-</p>
+- ⚛️ React
+- 🦫 Golang
+- 🐚 Bash
