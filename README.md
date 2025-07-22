@@ -2,71 +2,47 @@
 
 ## 💻 Developer | 🐧 Linux Enthusiast
 
-### I'm a passionate developer exploring the depths of **system programming**, **web development**, and **scripting automation**. I enjoy building cool projects, solving real-world problems, and contributing to open source. Want to expand my skills on **operating systems**.
+## I'm a developer diving deep into **system programming**, **web development**, and **automation scripting**. I enjoy building real-world projects, contributing to open source, and exploring **operating systems**.
 
-### I take **Leetcode** as a challenge and learning data structures through solving problems became my hobby.
+## I treat **LeetCode** as a challenge and love learning data structures through problem-solving.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" style="border-radius: 20px ; height: 75px ; width: 75px">
-</p>
-<p align="center"><i><strong>Proud Fedora User</strong></i></p>
-
----
-
-## 🛠️ Tech Stack & Tools I Use
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="55" alt="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="55" alt="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bitbucket.png" width="55" alt="Bitbucket"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="55" alt="Postman"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="55" alt="Bash"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="55" alt="HTML"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="55" alt="CSS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bootstrap.png" width="55" alt="Bootstrap"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="55" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/angular.png" width="55" alt="Angular"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="55" alt="TypeScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="55" alt="C"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="55" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/go.png" width="55" alt="Go"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="55" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"  alt="ChartJS"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"  alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"  alt="Postman"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"  alt="Bash"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  alt="C"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"  alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"  alt="Go"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL"/>
 </p>
 
 ---
 
-## 📫 Social and Profiles
+## 📫 Get in Touch
 
-<a href="mailto:mathewabhinav2005@gmail.com"><img src="gmail.png" height="75px" width="75px"></a>
-&nbsp; &nbsp;
-<a href="https://leetcode.com/u/mat_hew_24/"><img src="leetcode.png" height="75px" width="75px" style="margin: 0px 100px"></a>
+<a href="mailto:mathewabhinav2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/mat_hew_24/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 
 ---
 
-## 🧠 Currently Learning
+## 🚀 Currently Learning
 
-- ⚛️ React
 - 🦫 Golang
 - 🐚 Bash
