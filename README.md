@@ -125,7 +125,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-![Binary Sunset](https://tenor.com/view/binary-sunset-star-wars-luke-luke-skywalker-tatooine-gif-16736743435601264168.gif)
+![Binary Sunset](./dump/binary-sunset-star-wars.gif)
 
 </div>
 
