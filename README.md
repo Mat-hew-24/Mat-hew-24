@@ -6,6 +6,12 @@ I'm a developer diving deep into **system programming**, **web development**, an
 
 I treat **LeetCode** as a challenge and love learning data structures through problem-solving.
 
+<div align="center">
+
+# ─────────────── ⚔ ───────────────
+
+</div>
+
 <br>
 
 <div align="center">
@@ -13,18 +19,10 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 </div>
 <br>
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mat-hew-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  &nbsp;
   <img width="49%" src="https://streak-stats.demolab.com/?user=Mat-hew-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-hew-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -37,11 +35,11 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mat-hew-24&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies" width="100%"/>
-</p>
+<div align="center">
 
----
+# ─────────────── ⚔ ───────────────
+
+</div>
 
 <h2 align="center">⚡ Tech Arsenal</h2>
 
@@ -72,7 +70,11 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgsql"/>
 </p>
 
----
+<div align="center">
+
+# ─────────────── ⚔ ───────────────
+
+</div>
 
 <h2 align="center">🏗️ Contribution Architecture</h2>
 <p align="center">
@@ -80,23 +82,49 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 </p>
 <br>
 
----
+<div align="center">
 
-<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
+# ─────────────── ⚔ ───────────────
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</p>
+</div>
+
+<div align="center">
+
+### eat ate eaten
+
+</div>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
   <img src="./dist/github-snake.svg" alt="GitHub contribution snake">
 </picture>
 
----
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<div align="center">
+
+# ─────────────── ⚔ ───────────────
+
+</div>
+
+<div align="center">
+
+# My Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mat_hew_24?theme=forest&font=source_code_pro)
+
+</div>
+
+<div align="center">
+
+# MAY THE FORCE BE WITH YOU...
+
+</div>
+
+<div align="center">
+
+# ─────────────── ⚔ ───────────────
+
+</div>
