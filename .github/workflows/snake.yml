@@ -1,0 +1,31 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Mat-hew-24
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate contribution snake"
+          add: "dist"
