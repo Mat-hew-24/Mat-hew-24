@@ -119,6 +119,18 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
+# ─────────────── ⚔ ───────────────
+
+</div>
+
+<div align="center">
+
+![Binary Sunset](https://tenor.com/view/binary-sunset-star-wars-luke-luke-skywalker-tatooine-gif-16736743435601264168.gif)
+
+</div>
+
+<div align="center">
+
 # MAY THE FORCE BE WITH YOU...
 
 </div>
