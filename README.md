@@ -8,7 +8,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-# ─────────────── ⚔ ───────────────
+# ──── ⚔ ────
 
 </div>
 
@@ -37,7 +37,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-# ─────────────── ⚔ ───────────────
+# ──── ⚔ ────
 
 </div>
 
@@ -72,7 +72,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-# ─────────────── ⚔ ───────────────
+# ──── ⚔ ────
 
 </div>
 
@@ -84,7 +84,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-# ─────────────── ⚔ ───────────────
+# ──── ⚔ ────
 
 </div>
 
@@ -105,12 +105,6 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-# ─────────────── ⚔ ───────────────
-
-</div>
-
-<div align="center">
-
 # My Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mat_hew_24?theme=forest&font=source_code_pro)
@@ -119,7 +113,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-# ─────────────── ⚔ ───────────────
+# ──── ⚔ ────
 
 </div>
 
@@ -137,6 +131,6 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-# ─────────────── ⚔ ───────────────
+# ──── ⚔ ────
 
 </div>
