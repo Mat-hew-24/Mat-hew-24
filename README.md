@@ -37,6 +37,18 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" 
+       alt="Arch Linux" 
+       width="60" 
+       height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" 
+       alt="Fedora" 
+       width="60" 
+       height="60"/>
+</p>
+
 # ──── ⚔ ────
 
 </div>
@@ -69,6 +81,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"  alt="Python"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgsql"/>
 </p>
+
 
 <div align="center">
 
