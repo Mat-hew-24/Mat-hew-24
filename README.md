@@ -14,8 +14,9 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 <br>
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-stats.png">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Mat-hew-24&theme=crt">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-stats-crt.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Mat-hew-24&screen_effect=false&theme=crt&hide=avatar&dithering=true">
 </picture>
 
 <p align="center">
@@ -112,11 +113,5 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 <div align="center">
 
 # MAY THE FORCE BE WITH YOU...
-
-</div>
-
-<div align="center">
-
-# ──── ⚔ ────
 
 </div>
