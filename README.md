@@ -6,12 +6,6 @@ I'm a developer diving deep into **system programming**, **web development**, an
 
 I treat **LeetCode** as a challenge and love learning data structures through problem-solving.
 
-<div align="center">
-
-# ──── ⚔ ────
-
-</div>
-
 <br>
 
 <div align="center">
@@ -19,11 +13,10 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 </div>
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Mat-hew-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
-</p>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-stats.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Mat-hew-24&theme=crt">
+</picture>
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mat-hew-24&theme=aura_dark" alt="Repos per Language"/>
@@ -38,19 +31,16 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" 
-       alt="Arch Linux" 
-       width="60" 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png"
+       alt="Arch Linux"
+       width="60"
        height="60"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" 
-       alt="Fedora" 
-       width="60" 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png"
+       alt="Fedora"
+       width="60"
        height="60"/>
 </p>
-
-# ──── ⚔ ────
-
 </div>
 
 <h2 align="center">⚡ Tech Arsenal</h2>
@@ -82,24 +72,11 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgsql"/>
 </p>
 
-
-<div align="center">
-
-# ──── ⚔ ────
-
-</div>
-
 <h2 align="center">🏗️ Contribution Architecture</h2>
 <p align="center">
   <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Mat-hew-24&year=2026&width=1200&height=700&stats=true&credit=true&theme=neon" alt="Contributions" width="100%"/>
 </p>
 <br>
-
-<div align="center">
-
-# ──── ⚔ ────
-
-</div>
 
 <div align="center">
 
@@ -121,12 +98,6 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 # My Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mat_hew_24?theme=forest&font=source_code_pro)
-
-</div>
-
-<div align="center">
-
-# ──── ⚔ ────
 
 </div>
 
