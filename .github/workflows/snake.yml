@@ -31,7 +31,7 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=Mat-hew-24&screen_effect=false&theme=fuji&dithering=true&hide=avatar
+            dist/github-stats?username=Mat-hew-24&screen_effect=false&theme=crt&dithering=true
             dist/github-stats-dark?username=Mat-hew-24&theme=crt
           crt_outputs: |
             dist/github-stats-crt?username=Mat-hew-24&include_all_commits=true

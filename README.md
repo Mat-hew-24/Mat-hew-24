@@ -8,16 +8,12 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
-</div>
-<br>
-
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-stats.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mat-hew-24/Mat-hew-24/output/github-stats-crt.png">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Mat-hew-24&screen_effect=false&theme=crt&hide=avatar&dithering=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Mat-hew-24&screen_effect=false&theme=crt&dithering=true">
 </picture>
+<br>
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mat-hew-24&theme=aura_dark" alt="Repos per Language"/>
