@@ -26,18 +26,9 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 <br>
 
 <div align="center">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png"
-       alt="Arch Linux"
-       width="60"
-       height="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png"
-       alt="Fedora"
-       width="60"
-       height="60"/>
-</div>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix" />
 </div>
 
 <h2 align="center">⚡ Tech Arsenal</h2>
