@@ -27,7 +27,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
 
 <div align="center">
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png"
        alt="Arch Linux"
        width="60"
@@ -37,7 +37,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
        alt="Fedora"
        width="60"
        height="60"/>
-</p>
+</div>
 </div>
 
 <h2 align="center">⚡ Tech Arsenal</h2>
@@ -69,6 +69,7 @@ I treat **LeetCode** as a challenge and love learning data structures through pr
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgsql"/>
   <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity"/>
 </div>
 
 <h2 align="center">🏗️ Contribution Architecture</h2>
